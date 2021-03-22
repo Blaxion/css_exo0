@@ -1,0 +1,18 @@
+.titre1{
+    color: red;
+}
+.titre2{
+    color: blue;
+}
+.para{
+    background-color:red;
+    font-size: 50px;
+    font-weight: bold;
+}
+.titre4{
+    text-decoration: underline;
+}
+.liste{
+    font-style: italic;
+}
+
